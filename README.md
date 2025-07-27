@@ -1,16 +1,34 @@
-# exbo_appmobile
+<div align="center"><img src="https://github.com/mrbale21/FlutterSederhana2/blob/main/assets/images/me.jpg" height=250 width=250 </img></div>
 
-A new Flutter project.
+# <div align="center">Flutter Sederhana 2</div>
+Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
+Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam aplikasi ini hanya membuat slicing ui dan navigasi saja.
 
-A few resources to get you started if this is your first Flutter project:
+## Konfigurasi
+* **Instalasi & Konfigurasi**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  + **Clone** repository ini.
+  
+  + Jalankan perintah `flutter pub get`
+  
+  + Jalankan `main.dart` kemudian lihat pada emulator atau real device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot 
+
++ **Welcome Screen**
+
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_welcome-view.jpeg)
+
++ **Home Screen**
+
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_home-view.jpeg)
+
++ **Profile Screen**
+
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_profil-view.jpeg)
+
++ **Code Screen**
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_code.png)
