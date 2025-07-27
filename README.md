@@ -18,7 +18,7 @@ kunjungi link ini untuk unduh versi APK (https://drive.google.com/file/d/1WVTDTh
 
 + **Welcome Screen**
 
-![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_welcome-view.jpeg)
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/intro.jpeg)
 
 + **Home Screen**
 
