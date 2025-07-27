@@ -22,11 +22,17 @@ kunjungi link ini untuk unduh versi APK (https://drive.google.com/file/d/1WVTDTh
 
 + **Home Screen**
 
-![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_home-view.jpeg)
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/home.jpeg)
 
-+ **Profile Screen**
++ **Detail PLace Screen**
 
-![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_profil-view.jpeg)
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/detail.jpeg)
 
-+ **Code Screen**
-![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_code.png)
++ **Rekomendasi Screen**
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/rekomendasi.jpeg)
+
++ **Daftar Place Screen**
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/daftar.jpeg)
+
++ **Add Data Screen**
+![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/tambah-data.jpeg)
