@@ -29,10 +29,13 @@ kunjungi link ini untuk unduh versi APK (https://drive.google.com/file/d/1WVTDTh
 ![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/detail.jpeg)
 
 + **Rekomendasi Screen**
+  
 ![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/rekomendasi.jpeg)
 
 + **Daftar Place Screen**
+  
 ![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/daftar.jpeg)
 
 + **Add Data Screen**
+  
 ![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/tambah-data.jpeg)
