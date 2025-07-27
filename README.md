@@ -1,4 +1,3 @@
-# <div align="center">Explore Bogor Appliacation</div>
 <div align="center">
 
 # 🌄 Explore Bogor Application
