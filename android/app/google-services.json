@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682345885284",
+    "project_id": "exboapp-d64f3",
+    "storage_bucket": "exboapp-d64f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682345885284:android:118bf4e427ffb7e528b971",
+        "android_client_info": {
+          "package_name": "com.example.exbo_appmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_x0zGfD1lPILdxEfUj_2N-yszCsul_QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
