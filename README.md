@@ -3,7 +3,7 @@
 ## About
 Aplikasi ini dibangun untuk memenuhi skripsi. Dalam aplikasi ini terdapat metode Hybrid Filtering untuk mendapatkan rekomendasi wisata yang sesuai dengan referensi pengguna, aplikasi ini dibangun dengan bahasa pemrograman dart, dengan database firebase. 
 
-klik disini (https://drive.google.com/file/d/1WVTDThGca4yfIw2xsP3jXjqMhSPZyBVl/view?usp=drivesdk) untuk unduh versi APK.
+klik [disini] (https://drive.google.com/file/d/1WVTDThGca4yfIw2xsP3jXjqMhSPZyBVl/view?usp=drivesdk) untuk unduh versi APK.
 
 ## Konfigurasi
 * **Instalasi & Konfigurasi**
