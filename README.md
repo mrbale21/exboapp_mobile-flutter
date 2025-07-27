@@ -31,7 +31,7 @@ Aplikasi ini menggunakan **metode Hybrid Filtering** untuk memberikan **rekomend
 
 + **Welcome Screen**
 
-![image](<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/intro.jpeg" width="300"/>)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/intro.jpeg" width="300"/>
 
 + **Home Screen**
 
