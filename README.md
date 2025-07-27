@@ -1,11 +1,9 @@
-<div align="center"><img src="https://github.com/mrbale21/FlutterSederhana2/blob/main/assets/images/me.jpg" height=250 width=250 </img></div>
-
-# <div align="center">Flutter Sederhana 2</div>
-Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
-
+# <div align="center">Explore Bogor Appliacation</div>
 
 ## About
-Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam aplikasi ini hanya membuat slicing ui dan navigasi saja.
+Aplikasi ini dibangun untuk memenuhi skripsi. Dalam aplikasi ini terdapat metode Hybrid Filtering untuk mendapatkan rekomendasi wisata yang sesuai dengan referensi pengguna, aplikasi ini dibangun dengan bahasa pemrograman dart, dengan database firebase. 
+
+klik disini (https://drive.google.com/file/d/1WVTDThGca4yfIw2xsP3jXjqMhSPZyBVl/view?usp=drivesdk) untuk unduh versi APK.
 
 ## Konfigurasi
 * **Instalasi & Konfigurasi**
