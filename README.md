@@ -1,24 +1,37 @@
 # <div align="center">Explore Bogor Appliacation</div>
+<div align="center">
 
-## About
-Aplikasi ini dibangun untuk memenuhi skripsi. Dalam aplikasi ini terdapat metode Hybrid Filtering untuk mendapatkan rekomendasi wisata yang sesuai dengan referensi pengguna, aplikasi ini dibangun dengan bahasa pemrograman dart, dengan database firebase. 
+# 🌄 Explore Bogor Application
 
-kunjungi link ini untuk unduh versi APK (https://drive.google.com/file/d/1WVTDThGca4yfIw2xsP3jXjqMhSPZyBVl/view?usp=drivesdk)
+</div>
 
-## Konfigurasi
-* **Instalasi & Konfigurasi**
+## 📱 Tentang Aplikasi
 
-  + **Clone** repository ini.
-  
-  + Jalankan perintah `flutter pub get`
-  
-  + Jalankan `main.dart` kemudian lihat pada emulator atau real device.
+**Explore Bogor** adalah aplikasi mobile yang dibuat untuk memenuhi tugas akhir/skripsi.  
+Aplikasi ini menggunakan **metode Hybrid Filtering** untuk memberikan **rekomendasi tempat wisata** di Bogor berdasarkan preferensi dan referensi pengguna lain.
+
+- Dibuat dengan **bahasa pemrograman Dart (Flutter)**
+- Menggunakan **Firebase** sebagai backend dan database
+
+📦 **[Klik di sini untuk mengunduh APK](https://drive.google.com/file/d/1WVTDThGca4yfIw2xsP3jXjqMhSPZyBVl/view?usp=drivesdk)**
+
+---
+
+## ⚙️ Konfigurasi
+
+### 🔧 Instalasi & Jalankan Aplikasi
+
+1. Clone repository ini:
+
+   ```bash
+   git clone https://github.com/mrbale21/exboapp_mobile-flutter.git
+   cd exboapp_mobile-flutter
 
 ## Screenshot 
 
 + **Welcome Screen**
 
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/intro.jpeg)
+![image](<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/intro.jpeg" width="300"/>)
 
 + **Home Screen**
 
