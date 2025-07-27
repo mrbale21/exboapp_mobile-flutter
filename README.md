@@ -35,20 +35,20 @@ Aplikasi ini menggunakan **metode Hybrid Filtering** untuk memberikan **rekomend
 
 + **Home Screen**
 
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/home.jpeg)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/home.jpeg" width="300"/>
 
 + **Detail PLace Screen**
 
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/detail.jpeg)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/detail.jpeg" width="300"/>
 
 + **Rekomendasi Screen**
   
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/rekomendasi.jpeg)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/rekomendasi.jpeg" width="300"/>
 
 + **Daftar Place Screen**
   
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/daftar.jpeg)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/daftar.jpeg" width="300"/>
 
 + **Add Data Screen**
   
-![image](https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/tambah-data.jpeg)
+<img src="https://github.com/mrbale21/exboapp_mobile-flutter/blob/main/tambah-data.jpeg" width="300"/>
